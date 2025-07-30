@@ -1,0 +1,37 @@
+# Environment variables
+.env
+
+# Miscellaneous
+.DS_Store
+/.idea
+/.vscode
+
+# Flutter/Dart
+.dart_tool/
+.packages
+.pub-cache/
+build/
+
+# Generated files
+
+# IDE-specific files
+*.iml
+*.ipr
+*.iws
+
+# Android
+/android/app/src/main/assets/flutter_assets/*
+/android/app/build
+/android/.gradle
+/android/gradle
+/android/local.properties
+
+# iOS
+/ios/Pods/
+/ios/Flutter/App.framework
+/ios/Flutter/engine.version
+/ios/Flutter/flutter_assets/*
+/ios/Runner/GeneratedPluginRegistrant.h
+/ios/Runner/GeneratedPluginRegistrant.m
+/ios/Runner.xcworkspace/xcshareddata/
+/ios/Runner.xcworkspace/xcuserdata/
